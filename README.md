@@ -1,2 +1,2 @@
-# Game
+# A simple JavaScript Dice Game
  
